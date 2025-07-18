@@ -1,4 +1,4 @@
-module mkxz
+module github.com/mkxz22/mkxz
 
 go 1.24.4
 
