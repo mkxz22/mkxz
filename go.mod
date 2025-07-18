@@ -8,6 +8,7 @@ require (
 	github.com/gin-gonic/gin v1.10.1
 	github.com/go-redis/redis/v8 v8.11.5
 	github.com/go-sql-driver/mysql v1.9.3
+	github.com/hashicorp/go-uuid v1.0.3
 	github.com/nacos-group/nacos-sdk-go/v2 v2.3.2
 	golang.org/x/crypto v0.36.0
 	gorm.io/gorm v1.30.0
